@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"name": "2.1 Heading Element",
+			"path": "../../Downloads/2.1+Heading+Element (1)/2.1 Heading Element"
+		},
+		{
+			"name": "2.2 Paragraph Element",
+			"path": "../../Downloads/2.2+Paragraph+Element/2.2 Paragraph Element"
+		},
+		{
+			"name": "WED DEVELOPMENT",
+			"path": "../../Documents/WED DEVELOPMENT"
+		},
+		{
+			"path": "../internship"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.debug.settings.onBuildFailureProceed": true
+	}
+}
